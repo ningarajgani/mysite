@@ -274,7 +274,7 @@ i
 .header1 {
   font-family: 'Ubuntu Mono', cursive;
   color:azure;
-  font-size: 6vw;
+  font-size: 5vw;
   
 }
 
@@ -292,7 +292,7 @@ i
 .header3 {
   font-family: 'Ubuntu Mono', monospace;
   color:azure;
-  font-size: 5.2vw;
+  font-size: 3.3vw;
 }
 
 .link1 {
@@ -321,7 +321,7 @@ i
     text-align: center;
   }
   .header1 {
-    font-size: 12vw;
+    font-size: 10vw;
     
     
   }
